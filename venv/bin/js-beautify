@@ -1,0 +1,7 @@
+#!/root/flasky/venv/bin/python3.7
+#
+# Stub script to run jsbeautifier
+#
+import sys
+from jsbeautifier import main
+sys.exit(main())
