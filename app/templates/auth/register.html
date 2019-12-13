@@ -1,3 +1,4 @@
+
 {% extends "base.html" %}
 {% import "bootstrap/wtf.html" as wtf %}
 
@@ -5,10 +6,9 @@
 
 {% block page_content %}
 <div class="page-header">
-     <h1>登录</h1>
+     <h1>注册</h1>
 </div>
 <div class="col-md-4">
     {{ wtf.quick_form(form) }}
-<P>New user?<a href="{{ url_for('auth.register') }}">login</a></p>
 </div>
 {% endblock %}

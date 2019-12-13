@@ -1,19 +1,23 @@
 import os
+import click
 from app import create_app,db
 from app.models import User,Role
-from flask_script import Manager,Shell
-from flask_migrate import Migrate,MigrateCommand
+from flask_migrate import Migrate
 app = create_app('default')
-manager = Manager(app)
+#app = create_app(os.environ.get('FLASK_CONFIG') or 'default')
 migrate = Migrate(app,db)
 
+@app.shell_context_processor
 def make_shell_context():
-    return dict(app=app,db=db,User=User,Role=Role)
+    return dict(db=db,User=User,Role=Role)
 
 
-
-@manager.command
-def test():
+@app.cli.command()
+@click.argument('test_names', nargs=-1)
+def test(test_name):
     import unittest
-    tests = unittest.TestLoader().discover('tests')
+    if test_names:
+        tests = unittest.TestLoader().loadTestsFromNames(test_names)
+    else:
+        tests = unittest.TestLoader().discover('tests')
     unittest.TextTestRunner(verbosity=2).run(tests)

