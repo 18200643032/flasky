@@ -7,7 +7,7 @@ from ..models import User
 
 #登录的表单
 class LoginForm(FlaskForm):
-    email = StringField('Email',validators=[DataRequired(),Length(1,64),Email()])
+    email = StringField('Email',validators=[DataRequired(),Length(1,64)])
     password = PasswordField('Password',validators=[DataRequired()])
     remember_me = BooleanField('Keep me log')
     submit = SubmitField('登录')
@@ -30,3 +30,11 @@ class RegistrationForm(FlaskForm):
     def validate_username(self,field):
         if User.query.filter_by(username=field.data).first():
             raise ValidationError('有户名已存在')
+
+#更改密码的表单
+class ChangePasswordForm(FlaskForm):
+    old_password = PasswordField('旧的密码',validators=[DataRequired()])
+    password = PasswordField('Password',validators=[DataRequired(),EqualTo('password2',message='Passwords must match.')])
+    password2 = PasswordField('Confirm password',validators=[DataRequired()])
+    submit = SubmitField('确认更改')
+
